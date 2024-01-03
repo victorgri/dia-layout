@@ -1,5 +1,5 @@
 # Miami landing page
-Landing page for Dia company. Discription for this conpany, Gallery, contacts.
+Landing page for real estate company. Discription for this conpany, Gallery, contacts.
     - [DEMO](https://victorgri.github.io/dia-layout/)
 
 # Technologies used
